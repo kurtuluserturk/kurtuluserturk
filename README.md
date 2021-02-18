@@ -4,8 +4,7 @@
 
 #### 📍 Currently base at: Adana, Turkey
 
-#### 👨🏻‍💻 Currently working on:
-
+### 💻:keyboard: Languages and Tools 
 
 <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 <a src="https://expressjs.com/"><img src="https://img.icons8.com/windows/32/4a90e2/node-js.png"/></a>
