@@ -1,6 +1,6 @@
-### Hi there, I'm Kurtuluş 👨‍💻
+# Hi there, I'm Kurtuluş 👨‍💻
 
-> Developer, Engineer
+## Developer, Engineer
 
 #### 📍 Currently base at: Adana, Turkey
 
