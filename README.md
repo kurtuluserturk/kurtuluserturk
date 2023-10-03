@@ -6,12 +6,14 @@
 
 ### 💻:keyboard: Languages and Tools 
 
-<a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
-<a src="https://expressjs.com/"><img src="https://img.icons8.com/windows/32/4a90e2/node-js.png"/></a>
+<a src="https://vuejs.org/"><img src="https://icons8.com/icon/rY6agKizO9eb/vue-js"/></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-<a src="https://graphql.org/"><img src="https://img.icons8.com/color/48/4a90e2/graphql.png"/></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a src="https://www.typescriptlang.org/"><img src="https://icons8.com/icon/uJM6fQYqDaZK/typescript"/></a>
+<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a src="https://expressjs.com/"><img src="https://img.icons8.com/windows/32/4a90e2/node-js.png"/></a>
+<a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+<a src="https://graphql.org/"><img src="https://img.icons8.com/color/48/4a90e2/graphql.png"/></a>
 
 <a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 <a src="https://sass-lang.com/"><img src="https://img.icons8.com/color/48/4a90e2/sass.png"/></a>
@@ -21,10 +23,11 @@
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
 <a src="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+<a src="https://vitejs.dev/"><img src="https://icons8.com/icon/YO3YqSaTOu5K/vite"/></a>
+<a src=""><img src="https://icons8.com/icon/21896/api"/></a>
 
-<a src="https://unity.com/"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></a>
-<a src="https://www.w3schools.com/cs/"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
-<a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
+<a src="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
+<a src="https://code.visualstudio.com/"><img src="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019"/></a>
 
 
 
