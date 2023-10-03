@@ -6,7 +6,8 @@
 
 ### 💻:keyboard: Languages and Tools 
 
-<a src="https://vuejs.org/"><img src="https://icons8.com/icon/rY6agKizO9eb/vue-js"/></a>
+<a src="https://vuejs.org/"><img src="![image](https://github.com/kurtuluserturk/kurtuluserturk/assets/47227072/7ab72f72-0f2e-45ce-aa28-9d9fbea2767d)
+"/></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://www.typescriptlang.org/"><img src="https://icons8.com/icon/uJM6fQYqDaZK/typescript"/></a>
